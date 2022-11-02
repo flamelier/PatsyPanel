@@ -31,7 +31,7 @@
 <sup>~</sup> Paid for addon
 
 # Getting a license
-Using this without a [license](/LICENSE.md)/[terms](/LICENSE/terms.docx)/[order](/LICENSE/orderEXAMPLE.docx) opens you up to legal actions. However, you can request a license by using the following contact form: [Closed](https://computerwolf.com/patsypanel)
+Using this without a [license](/LICENSE.md)/[terms](/LICENSE/terms.docx)/[order](/LICENSE/orderEXAMPLE.docx) opens you up to legal actions. However, you can request a license by using the following contact form: [Temporarily Closed](https://computerwolf.com/patsypanel)
 This process is easy and will result in you getting the latest version with a complete order form so that you can use the software. Addons/extra features are available.
 Due the the nature of this project; the license is monthly though it can be renew by sending an email to Computer Wolf LLC to confirm your license is still active.
 
