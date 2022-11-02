@@ -14,8 +14,8 @@ The help desk software is written in PHP, HTML, CSS, JavaScript, using MySQL for
 - Active Directory server(for Active Directory authentication)<sup>!</sup>
 - Web browser(Chrome, Firefox, Edge, etc.)
 
-<sup>*</sup> Either one of these will work.
-<sup>!</sup> Not Required.
+<sup>*</sup><sub>Either one of these will work.</sub>
+<sup>!</sup><sub>Not Required.</sub>
 
 ## Features
 - Full web-based interface
@@ -33,8 +33,8 @@ The help desk software is written in PHP, HTML, CSS, JavaScript, using MySQL for
 - E-mail notifications<sup>1</sup>
 - No prioprietary software means Patsy Panel is fully customizable with a license.
 
-<sup>1</sup> Comming soon
-<sup>~</sup> Paid for addon
+<sup>1</sup><sub>Comming soon</sub>
+<sup>~</sup><sub>Paid for addon</sub>
 
 # Getting a license
 Using this without a [license](/LICENSE.md)/[terms](/LICENSE/terms.docx)/[order](/LICENSE/orderEXAMPLE.docx) opens you up to legal actions. However, you can request a license by using the following contact form: [Temporarily Closed](https://computerwolf.com/patsypanel)
