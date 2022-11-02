@@ -22,8 +22,7 @@
 - Discord OAuth login/authentication<sup>~</sup><sup>1</sup>
 - Google OAuth login/authentication<sup>~</sup><sup>1</sup>
 - Slack OAuth login/authentication<sup>~</sup><sup>1</sup>
-- Easy to setup MySQL script
-- Easy installation
+- MySQL script for setup
 - Multiple types of users configurable
 - View reports on problem categories, work done by support reps, and departments submitting problems<sup>1</sup>
 - E-mail notifications<sup>1</sup>
