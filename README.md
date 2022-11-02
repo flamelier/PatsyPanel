@@ -1,6 +1,8 @@
 # About Patsy Panel
-Patsy Panel is the complete help desk solution for small to medium IT departments and service providers. This software provides a simple, easy to use web interface for managing and tracking technical support problems.  
+Patsy Panel is the complete help desk solution for small to medium IT departments and service providers. This software provides a simple, easy to use web interface for managing and tracking technical support problems.
+
 Patsy Panel is under the PolyForm Commercial Software License with specific Terms found in the LICENSE folder in the root of the project and a free trial is available. Copyright (C) 2022 Computer Wolf LLC. 
+
 The help desk software is written in PHP, HTML, CSS, JavaScript, using MySQL for database and is easily modified and customized. All that is required to run Patsy Panel is a system that supports PHP(Windows Server running IIS, XAMPP, etc.) and a MySQL database.
 
 ## System Requirements
@@ -11,6 +13,7 @@ The help desk software is written in PHP, HTML, CSS, JavaScript, using MySQL for
 - 1GB of hard drive space for web pages
 - Active Directory server(for Active Directory authentication)<sup>!</sup>
 - Web browser(Chrome, Firefox, Edge, etc.)
+
 <sup>*</sup> Either one of these will work.
 <sup>!</sup> Not Required.
 
@@ -29,11 +32,13 @@ The help desk software is written in PHP, HTML, CSS, JavaScript, using MySQL for
 - View reports on problem categories, work done by support reps, and departments submitting problems<sup>1</sup>
 - E-mail notifications<sup>1</sup>
 - No prioprietary software means Patsy Panel is fully customizable with a license.
+
 <sup>1</sup> Comming soon
 <sup>~</sup> Paid for addon
 
 # Getting a license
 Using this without a [license](/LICENSE.md)/[terms](/LICENSE/terms.docx)/[order](/LICENSE/orderEXAMPLE.docx) opens you up to legal actions. However, you can request a license by using the following contact form: [Temporarily Closed](https://computerwolf.com/patsypanel)
+
 This process is easy and will result in you getting the latest version with a complete order form so that you can use the software. Addons/extra features are available.
 Due the the nature of this project; the license is monthly though it can be renew by sending an email to Computer Wolf LLC to confirm your license is still active.
 
